@@ -1,0 +1,11 @@
+ ID;        IMIE;    NAZWISKO;  PLN
+  1;        Adam;    Bartosik; 2000
+  2;      Michal;    Kowalski; 2000
+  3;         Jan;      Murzyn; 2000
+  4;       Marek;       Gawel; 2000
+  5;        Anna;   Wallenrod; 2000
+  6;      Monika; Sienkiewicz; 2000
+  7;  Aleksandra;       Minsc; 2000
+  8;       Jakub;     Krabiej; 1500
+  9;     Gerwalt;         Buk;12000
+ 10;       Zhang;        Yang;  600
